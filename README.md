@@ -1,15 +1,10 @@
 # 👋 Hi, I'm Mohamed Munshif
 
-![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
-
-### 🚀 Mobile & Web Developer | Flutter | HTML | CSS | JavaScript | Java (Coming Soon)  
-### 🎨 Graphic Designer | Canva | Figma | Photoshop
+<sub>Flutter Mobile Apps, Web Design, Graphic Design</sub>
 
 > "Somebody says I can't do this… I'll do this and show you!" 💪
 
-I’m currently focused on *Flutter mobile development* and creating *modern web experiences* with HTML, CSS & JavaScript.  
-I also enjoy *graphic designing*, creating engaging visuals and user-friendly interfaces using Canva, Figma, and Photoshop.  
-Soon, I will start learning *Java* to expand my programming skills.
+I build *modern mobile apps, **interactive websites, and **creative graphics*, using colorful designs and animations to make projects pop!  
 
 ---
 
@@ -21,20 +16,56 @@ Soon, I will start learning *Java* to expand my programming skills.
 
 ---
 
-## 💻 Skills & Focus
+## ⚡ Skills & Focus (Animated Coding Style)
 
-| Frontend | Mobile | Programming | Tools | Graphic Design |
-|----------|--------|------------|-------|----------------|
-| HTML     | Flutter | JavaScript | Git & GitHub | Canva |
-| CSS      |        | Java (Soon) | VS Code / IntelliJ | Figma |
-| JavaScript |      |            | Photoshop | |
+```html
+<div style="display:flex; flex-wrap:wrap; gap:15px; font-family:monospace;">
+  <div style="padding:10px; background:#00d4ff; color:#fff; border-radius:8px; animation: bounce 1s infinite alternate;">
+    💻 Flutter Mobile Apps
+  </div>
+  <div style="padding:10px; background:#ff4f81; color:#fff; border-radius:8px; animation: bounce 1s infinite alternate 0.2s;">
+    🌐 Web: HTML, CSS, JS
+  </div>
+  <div style="padding:10px; background:#ffb347; color:#fff; border-radius:8px; animation: bounce 1s infinite alternate 0.4s;">
+    🎨 Graphic Design
+  </div>
+  <div style="padding:10px; background:#00ff85; color:#fff; border-radius:8px; animation: bounce 1s infinite alternate 0.6s;">
+    🖌 Canva
+  </div>
+  <div style="padding:10px; background:#ff85a2; color:#fff; border-radius:8px; animation: bounce 1s infinite alternate 0.8s;">
+    🖌 Figma
+  </div>
+  <div style="padding:10px; background:#ffc0d6; color:#fff; border-radius:8px; animation: bounce 1s infinite alternate 1s;">
+    🖌 Photoshop
+  </div>
+</div>
 
----
+<style>
+@keyframes bounce {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0); }
+}
+</style>
+<h1 style="font-family:'Arial', sans-serif; color:#ff4f81; animation: glow 1.5s infinite alternate;">
+👋 Hello, I'm Mohamed Munshif!
+</h1>
+<style>
+@keyframes glow {
+  0% { text-shadow: 0 0 5px #ff4f81, 0 0 10px #ff85a2, 0 0 15px #ffb3c6; }
+  50% { text-shadow: 0 0 10px #ffb3c6, 0 0 20px #ffc0d6, 0 0 30px #ff4f81; }
+  100% { text-shadow: 0 0 20px #ffc0d6, 0 0 30px #ff4f81, 0 0 40px #ff85a2; }
+}
+</style>
 
-## ⚡ Current Learning Path
+<p style="color:#00d4ff; animation: rainbow 3s infinite;">💻 Mobile Apps | 🌐 Web | 🎨 Graphic Design</p>
 
-```mermaid
-flowchart LR
-  A[Flutter Mobile Apps] --> B[Web Design: HTML, CSS, JS]
-  B --> C[Java - Coming Soon 🚀]
-  B --> D[Graphic Design: Canva, Figma, Photoshop 🎨]
+<style>
+@keyframes rainbow {
+  0% { color: #ff4f81; }
+  25% { color: #ffb3c6; }
+  50% { color: #00d4ff; }
+  75% { color: #00ff85; }
+  100% { color: #ff4f81; }
+}
+</style>
